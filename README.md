@@ -4,7 +4,7 @@
 This project focuses on detecting **nutrient deficiencies (Nitrogen, Phosphorus, and Potassium)** in rice leaves using **image processing and machine learning techniques**. By analyzing rice leaf images, the system identifies early symptoms of nutrient stress, helping farmers take corrective actions to improve crop yield.
 
 ## 📂 Dataset
-- Source: [Nutrient Deficiency Symptoms in Rice (Kaggle)](https://www.kaggle.com/)
+- Source: [Nutrient Deficiency Symptoms in Rice (Kaggle)]
 - Classes: 
   - Healthy  
   - Nitrogen Deficient  
@@ -43,7 +43,13 @@ The dataset was stored in **Google Drive** and accessed in **Google Colab** for 
 
 ## 📖 Reference
 - *Identification of Nutrient Deficiency Based on Leaf Image Data Using Machine Learning* — Kavitha S, ESCI 2024.
+✨ **Future Work**
 
+Expand dataset with additional rice varieties.
+
+Experiment with Vision Transformers (ViT).
+
+Deploy model as a web app/mobile app for farmers.
 ---
 
 ## 🚀 How to Run
