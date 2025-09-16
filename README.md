@@ -46,10 +46,9 @@ The dataset was stored in **Google Drive** and accessed in **Google Colab** for 
 ✨ **Future Work**
 
 Expand dataset with additional rice varieties.
-
 Experiment with Vision Transformers (ViT).
+Depoy model as web/mobile app for farmers.
 
-Deploy model as a web app/mobile app for farmers.
 ---
 
 ## 🚀 How to Run
